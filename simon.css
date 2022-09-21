@@ -1,0 +1,136 @@
+body{
+ background-color: rgb(1, 21, 39);
+ text-align: center;
+}
+
+h1{
+    padding: 1%;
+    margin: 0;
+    color: rgb(240, 200, 89);   
+    font-family: 'Press Start 2P', cursive;
+}
+
+.boxs{
+    padding-top: 4%;
+    margin-left: 35%;
+    width: 30%;
+    height: max-content;
+}
+.blue{
+    border-width: 1rem;
+    border-color: black;
+    border-radius: 20%;
+display: inline-block;
+width: 10rem;
+height: 10rem;
+background-color: blue;
+margin: 1rem;
+}
+.yellow{
+    border-radius: 20%;
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+    background-color: yellow;
+    margin: 1rem;
+    }
+.green{
+    border-radius: 20%;
+display: inline-block;
+width: 10rem;
+height: 10rem;
+background-color: green;
+margin: 1rem;
+}
+.red{
+    border-radius: 20%;
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+    background-color: red;
+    margin: 1rem;
+    }
+    
+    
+.press{
+    opacity: 0.0;
+}
+.btn{
+    padding: 15px,20px,20px,0;
+    word-spacing: 30px;
+
+}
+.b {
+    background: #99d6ff;
+    background-image: -webkit-linear-gradient(top, #99d6ff, #1c4159);
+    background-image: -moz-linear-gradient(top, #99d6ff, #1c4159);
+    background-image: -ms-linear-gradient(top, #99d6ff, #1c4159);
+    background-image: -o-linear-gradient(top, #99d6ff, #1c4159);
+    background-image: linear-gradient(to bottom, #99d6ff, #1c4159);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #f7f4f7;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .b:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+.clicked{
+    box-shadow: 0 4px 5px 0 #DBEDF3;
+    opacity: 0.25;
+    
+}
+
+h2{
+    padding-top: 1%;
+    margin-bottom:0 ;
+    color: aliceblue;
+    font-family: 'Press Start 2P', cursive;
+}
+h3{
+    color: rgb(240, 200, 89); 
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+
+.hs,.cs{
+    display: inline-block;
+    text-align: left;
+}
+.l{
+    padding-bottom: 10px;
+    
+}
+
+.s{
+    padding: 0%;
+    margin: 0%;
+    color: rgb(240, 200, 89);   
+    font-family: 'Press Start 2P', cursive;
+}
+
+p{
+    z-index: 0;
+}
+
+.rules{
+    color: aliceblue;
+    text-align: left;
+    font-family: 'Press Start 2P', cursive;
+}
+
